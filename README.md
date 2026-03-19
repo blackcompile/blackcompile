@@ -1,66 +1,52 @@
-<h1 align="center">Hey 👋 I'm Nusrat </h1>
+<h1 align="center">Hey 👋 I'm Nusrat Jahan</h1>
+<h3 align="center">CSE Student | Competitive Programmer</h3>
 
 <p align="center">
-  💻 CSE Student | ⚡ Problem Solver | 🤖 ML & AI Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Competitive+Programming+Journey;DSA+Focused;AI+Curious+Mind;Building+Strong+Foundations&center=true&width=500&height=50">
 </p>
+
 ---
 
 ## 🧠 About Me
 
-* 🎓 CSE Student
-* ⚔️ Passionate about **Competitive Programming & Problem Solving**
-* 🤖 Exploring **Machine Learning & Artificial Intelligence**
+- 🎓 CSE Student 
+- 🧩 Passionate about Data Structures & Algorithms
+- 🚀 Focused on building strong core fundamentals
 
 ---
 
-## ⚔️ Core Focus
+## ⚔️ Coding Focus
 
-* 💡 Problem Solving (Codeforces /Leetcode/ Online Judges)
-* 🧠 Data Structures & Algorithms
-* 🤖 Machine Learning Models & Projects
-* 🚀 Artificial Intelligence Basics
+- 📌 Problem Solving (Codeforces / Online Judges)
+- 📚 DSA Deep Practice
 
 ---
 
-## 🛠️ Skills
+## 🛠 Tech Stack
 
-### 💻 Programming
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-
-### 🧠 Core Skills
-
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-purple?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-red?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-blue?style=for-the-badge)
+### 📘 Concepts
+![Data Structures](https://img.shields.io/badge/Data%20Structures-008080?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Time%20Complexity-DC143C?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-6A5ACD?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=offbyone-dev&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offbyone-dev&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=offbyone-dev&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nusratjahan7-coder&show_icons=true&theme=radical" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusratjahan7-coder&layout=compact&theme=radical" height="160">
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Mission
 
-* 📦 Inventory Management System (ASP.NET Core MVC)
-* 🤖 Smart Loan Risk Analyzer (Machine Learning)
+Master fundamentals →  
+Become a strong Software Engineer   
 
-## 🌐 Connect with me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/nusrat
-- 💻 Portfolio: https://nusrat-portfolio-link.com  
-- 📧 Email: nusrat@email.com  
+---
