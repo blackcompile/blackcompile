@@ -3,11 +3,6 @@
 <p align="center">
   💻 CSE Student | ⚡ Problem Solver | 🤖 ML & AI Enthusiast
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Competitive+Programming+Journey;Machine+Learning+Explorer;Future+AI+Engineer" />
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -15,13 +10,12 @@
 * 🎓 CSE Student
 * ⚔️ Passionate about **Competitive Programming & Problem Solving**
 * 🤖 Exploring **Machine Learning & Artificial Intelligence**
-* 🎯 Goal: Strong fundamentals + impactful real-world projects
 
 ---
 
 ## ⚔️ Core Focus
 
-* 💡 Problem Solving (Codeforces / Online Judges)
+* 💡 Problem Solving (Codeforces /Leetcode/ Online Judges)
 * 🧠 Data Structures & Algorithms
 * 🤖 Machine Learning Models & Projects
 * 🚀 Artificial Intelligence Basics
@@ -65,8 +59,3 @@
 * 📦 Inventory Management System (ASP.NET Core MVC)
 * 🤖 Smart Loan Risk Analyzer (Machine Learning)
 
----
-
-## 🎯 Mission
-
-> Becoming a strong Problem Solver + AI-focused Software Engineer 🚀
