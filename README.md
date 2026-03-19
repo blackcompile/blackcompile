@@ -59,3 +59,8 @@
 * 📦 Inventory Management System (ASP.NET Core MVC)
 * 🤖 Smart Loan Risk Analyzer (Machine Learning)
 
+## 🌐 Connect with me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/nusrat
+- 💻 Portfolio: https://nusrat-portfolio-link.com  
+- 📧 Email: nusrat@email.com  
