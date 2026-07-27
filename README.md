@@ -5,7 +5,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Insane+Competitive+Programming;Oh+Yeah,+DSA;AI+Curious+Mind;Building+Amazing+Stuff+That+I+Like&center=true&width=500&height=50">
 </p>
 
-
+ 
 ## About Me
 
 -  CSE Student 
