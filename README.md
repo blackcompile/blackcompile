@@ -1,4 +1,4 @@
-<h1 align="center">Hello... I'm blackcompile <img src="https://slackmojis.com/emojis/91290-blob-hi/download" width="25"/> Hi there! </h1>
+<h1 align="center">Hello... I'm blackcompile <img src="https://slackmojis.com/emojis/91290-blob-hi/download" width="25"/> </h1>
 <h3 align="center">CSE Student | Competitive Programmer</h3>
 
 <p align="center">
