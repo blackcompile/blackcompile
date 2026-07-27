@@ -22,6 +22,6 @@
 
 ## Mission
 
-No mission yet...just exploring tech 
+No mission yet...just exploring tech <img src="https://slackmojis.com/emojis/7692-crycat/download" width="25"/> 
 
 
