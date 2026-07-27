@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Nusrat Jahan</h1>
+<h1 align="center">Hello... I'm Nusrat /h1>
 <h3 align="center">CSE Student | Competitive Programmer</h3>
 
 <p align="center">
@@ -7,35 +7,35 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🎓 CSE Student 
-- 🧩 Passionate about Data Structures & Algorithms
-- 🚀 Focused on building strong core fundamentals
-
----
-
-## ⚔️ Coding Focus
-
-- 📌 Problem Solving (Codeforces / Online Judges)
-- 📚 DSA Deep Practice
+-  CSE Student 
+- Passionate about Data Structures & Algorithms
+-  Focused on building strong core fundamentals
 
 ---
 
-## 🛠 Tech Stack
+##  Coding Focus
 
-### 💻 Languages
+- Problem Solving (Codeforces / Online Judges)
+-  DSA Deep Practice
+
+---
+
+##  Tech Stack
+
+###  Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 📘 Concepts
+### Concepts
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-008080?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Time%20Complexity-DC143C?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-6A5ACD?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nusratjahan7-coder&show_icons=true&theme=radical" height="160">
@@ -44,9 +44,8 @@
 
 ---
 
-## 🎯 Mission
+##  Mission
 
-Master fundamentals →  
-Become a strong Software Engineer   
+No mission yet...just exploring tech 
 
 ---
