@@ -1,4 +1,4 @@
-<h1 align="center">Hello... I'm Nusrat </h1>
+<h1 align="center">Hello... I'm blackcompile </h1>
 <h3 align="center">CSE Student | Competitive Programmer</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-##  About Me
+## About Me
 
 -  CSE Student 
 - Passionate about Data Structures & Algorithms
@@ -15,7 +15,7 @@
 
 ---
 
-##  Coding Focus
+## Coding Focus
 
 - Problem Solving (Codeforces / Neetcode/Leetcode)
 - DSA Deep Practice
@@ -23,7 +23,7 @@
 ---
 
 
-##  Mission
+## Mission
 
 No mission yet...just exploring tech 
 
