@@ -5,7 +5,6 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Insane+Competitive+Programming;Oh+Yeah,+DSA;AI+Curious+Mind;Building+Amazing+Stuff+That+I+Like&center=true&width=500&height=50">
 </p>
 
----
 
 ## About Me
 
@@ -13,18 +12,16 @@
 - Passionate about Data Structures & Algorithms
 -  Focused on building strong core fundamentals
 
----
 
 ## Coding Focus
 
 - Problem Solving (Codeforces / Neetcode/Leetcode)
 - DSA Deep Practice
 
----
 
 
 ## Mission
 
 No mission yet...just exploring tech 
 
----
+
