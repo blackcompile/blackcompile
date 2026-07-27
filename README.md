@@ -1,5 +1,5 @@
-<h1 align="center">Hello... I'm blackcompile <img src="https://slackmojis.com/emojis/110438-pika-wave/download" width="25"/></h1>
-<h3 align="center">CSE Student | Competitive Programmer</h3>
+<h1 align="center">Hello... I'm blackcompile <img src="https://slackmojis.com/emojis/22158-oh-hello/download" width="25"/></h1>
+<h3 align="center">CSE Student</h3>
 
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Insane+Competitive+Programming;Oh+Yeah,+DSA;AI+Curious+Mind;Building+Amazing+Stuff+That+I+Like&center=true&width=500&height=50">
