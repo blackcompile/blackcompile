@@ -2,7 +2,7 @@
 <h3 align="center">CSE Student | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Competitive+Programming+Journey;DSA+Focused;AI+Curious+Mind;Building+Strong+Foundations&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Insane+Competitive+Programming;Oh+ yeah +DSA;AI+Curious+Mind;Building+Amazing+Staff+ That I like&center=true&width=500&height=50">
 </p>
 
 ---
