@@ -2,7 +2,7 @@
 <h3 align="center">CSE Student</h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Insane+Competitive+Programming;Oh+Yeah,+DSA;AI+Curious+Mind;Building+Amazing+Stuff+That+I+Like&center=true&width=500&height=50">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Insane+Thought;Oh+Yeah,+DSA;AI+Curious+Mind;Building+Amazing+Stuff+That+I+Like&center=true&width=500&height=50">
 </p>
 
  
