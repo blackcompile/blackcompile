@@ -15,7 +15,7 @@
 
 ## Coding Focus
 
-- Problem Solving (Codeforces / Neetcode/Leetcode)
+- Problem Solving 
 - DSA Deep Practice
 
 
